@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahzadmalk
 
-<!---
-shahzadmalk/shahzadimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--shahzadimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  
 I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 💻 - Software Engineer at Awell Health — April 2021 to Present
